@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Abdulfattah </h1>
-<h3 align="center"> | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Lover%20of%20Data%20&%20Automation;Always%20Learning%20and%20Building...&center=true&width=500&height=30">
