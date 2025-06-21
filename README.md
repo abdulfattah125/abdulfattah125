@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abdulfattah </h1>
-<h3 align="center">Data Analyst | Data Engineer | </h3>
+<h3 align="center"> | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Engineer%20%7C%20Data%20Analyst;Lover%20of%20Data%20&%20Automation;Always%20Learning%20and%20Building...&center=true&width=500&height=30">
@@ -34,15 +34,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?abdulfattah125=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-abdulfattah125&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulfattah-gamal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)]([(https://www.linkedin.com/in/abdulfattah-gamal/)])
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](btabdulfattahgamal@gmail.com)
 
 ---
